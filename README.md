@@ -24,8 +24,8 @@ The easiest way to experiment with this or any other Python project is to use vi
 2. Install virtualenv then virtualenvwrapper:
 
    ```
-   pip install virtualenv
-   pip install virtualenvwrapper
+   sudo -H pip install virtualenv
+   sudo -H pip install virtualenvwrapper
    ```
 
 3. Add this section of code to your `.bash_profile`:
